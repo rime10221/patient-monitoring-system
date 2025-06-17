@@ -1,0 +1,12 @@
+{
+  "monitoring_region": [
+    135,
+    50,
+    121,
+    33
+  ],
+  "monitoring_interval": 2.0,
+  "change_sensitivity": 0.01,
+  "alert_duration": 5.0,
+  "debug_mode": false
+}
