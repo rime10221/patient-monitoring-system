@@ -1,0 +1,57 @@
+# Python 파일
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 로그 및 데이터 파일
+*.log
+*.sqlite
+*.db
+debug_*.png
+
+# 환경 및 IDE 설정
+.env
+.venv
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Windows 관련 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# 압축 파일 (배포용으로 생성된 것들)
+*.zip
+*.gz
+*.tar
+*.rar
+
+# 배포 관련 폴더 및 파일
+PatientMonitor_Setup/
+
+# 기타 불필요한 파일
+Microsoft/
+pip/
